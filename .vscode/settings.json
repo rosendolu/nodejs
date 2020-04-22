@@ -1,6 +1,5 @@
 {
-  "editor.defaultFormatter": "dbaeumer.vscode-eslint",
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
   "editor.formatOnSave": true,
   "eslint.codeActionsOnSave.mode": "all"
-  // "editor.defaultFormatter": "dbaeumer.vscode-eslint"
 }
